@@ -1,0 +1,24 @@
+{
+  "name": "@d2-projects/mock-suit",
+  "version": "1.0.0",
+  "description": "Spy xhr mock run in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2-projects/mock-suit.git"
+  },
+  "keywords": [
+    "d2-projects",
+    "mock",
+    "intercept"
+  ],
+  "author": "CNine <cnine229@qq.mail>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d2-projects/mock-suit/issues"
+  },
+  "homepage": "https://github.com/d2-projects/mock-suit#readme"
+}
