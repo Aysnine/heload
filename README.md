@@ -22,4 +22,4 @@ yarn add @d2-projects/mock-suit
 
 ## License
 
-MIT
+Under the MIT license. See the [LICENSE](./LICENSE) file for details.
