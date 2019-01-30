@@ -19,3 +19,7 @@ Using yarn:
 ``` bash
 yarn add @d2-projects/mock-suit
 ```
+
+## License
+
+MIT
